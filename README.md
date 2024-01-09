@@ -1,4 +1,4 @@
-# Persian-Podcast
-It's a fun for me. Persian Podcast is past, now and future.
-
-**Coming Soon...**
+# پادکست‌های فارسی
+> سعی [من](https://twitter.com/alijahsan)، گردآوری همۀ پادکست‌های  فارسی صوتی و تصویری زنده و مُرده است!
+از هزاران پادکست از قلم افتاده معذرت می‌خوام!
+پادکستت رو بهم معرفی کن!
