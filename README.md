@@ -32,6 +32,8 @@
 |[YouTube Playlist](https://www.youtube.com/playlist?list=PLH88gtlM5juBzoz8yzQKYNzoLNHXbYdNs)|در سری برنامه های رپشو پلاس با فعالین  هنر، موسیقی و هیپ هاپ ایران در موضوعات مختلف گفتگو خواهیم کرد  #podcast #rapfarsi #rapsho|تصویری|![Logo](https://github.com/alijahsan/Persian_Podcasts/blob/main/Logo/Hip%20Hop/Rapsho%20Plus.png)|Rapsho Plus|۲|
 [YouTube Playlist](https://www.youtube.com/playlist?list=PL5OIcIyc3kpcEvcdQnLe45a6CazED0jeY)|-|تصویری|![Logo](https://github.com/alijahsan/Persian_Podcasts/blob/main/Logo/Hip%20Hop/%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA%20%D8%A8%D8%B1%D8%AE%D9%88%D8%B1%D8%AF%D9%87%D8%A7%20%D8%A7%D8%B2%20%D8%A2%D8%AA%D9%88%D8%B1.png)|پادکست برخوردها از آتور|۳|
 |[YouTube Playlist](https://youtube.com/playlist?list=PL8mwwlKKMTXwUWDjA2MrIa6UFG-09jbiZ&si=XP_asPqt8F6I1-ZM)<br><br>[Special Episodes / اپیزودهای ویژه](https://youtube.com/playlist?list=PL8mwwlKKMTXxE6ZjWOxX8nVWjvH7aHxTF&si=5yjSrm4q8Sqo5EkX)|-|تصویری|-|HOLY SH!T Podcast / پادکست هولی شت|۴
+|[YouTube Playlist](https://youtube.com/playlist?list=PLzqvzHlF3LKOBNUEqlrv11tUicDdf4xgH&si=kfAfdbCf5IQSO208)|مجموعه گفتگوهای تصویری کادانس با هنرمندان و افراد فعال حوزه موسیقی در ایران.|تصویری|![Logo](Logo\Music\Cadence Music Magazine.jpg)|پادکست تصویری کادانس|۵
+
 
 
 </br>
